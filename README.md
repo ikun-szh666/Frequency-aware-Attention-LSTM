@@ -19,7 +19,7 @@
 
    ```bash
    git clone https://github.com/ikun-szh666/Frequency-aware-Attention-LSTM.git
-   cd Frequency-aware-Attention-LSTM
+   cd model
    ```
 
 2. **安装依赖**  
