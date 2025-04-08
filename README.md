@@ -1,7 +1,7 @@
 # 基于频率感知的注意力机制-LSTM模型在PM2.5时间序列预测中的应用
  
 论文“FREQUENCY-AWARE ATTENTION-LSTM FOR PM2.5 TIME SERIES FORECASTING”源码
-这是我们的论文：
+这是我们的论文：https://arxiv.org/abs/2503.24043
 
 ## 项目结构
 
